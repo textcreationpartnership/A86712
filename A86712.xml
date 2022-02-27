@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Newcastle, to the Right Honourable the Lord High Chancellour of Scotland, and the rest of the Scotish Commissioners at London. Containing a relation of the taking of the town of Newcastle by storm. Dated the 19 of October, 1644. Published by authority.</title>
+            <author>Humbie, A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86712</idno>
+            <idno type="STC">Wing H3366</idno>
+            <idno type="STC">Thomason E14_8</idno>
+            <idno type="STC">ESTC R17559</idno>
+            <idno type="EEBO-CITATION">99860217</idno>
+            <idno type="PROQUEST">99860217</idno>
+            <idno type="VID">112334</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86712)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112334)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E14[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Newcastle, to the Right Honourable the Lord High Chancellour of Scotland, and the rest of the Scotish Commissioners at London. Containing a relation of the taking of the town of Newcastle by storm. Dated the 19 of October, 1644. Published by authority.</title>
+                  <author>Humbie, A.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock and Samuel Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 26. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 5: A. Humbie.</note>
+                  <note>Attributed to A. Humbie. cf. NUC pre-1956.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newcastle upon Tyne (England) --  History --  Siege, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112334:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <p>A LETTER From NEVV CASTLE, To the Right Honourable the Lord High Chancellour of <hi>Scotland,</hi> and the reſt of the Scotiſh Commiſſioners at <hi>London.</hi>
+            </p>
+            <p>Containing a RELATION of the taking of the Town of NEVV CASTLE By Storm.</p>
+            <p>
+               <hi>Dated the</hi> 19 <hi>of</hi> October, 1644.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Boſtock</hi> and <hi>Samuel Gellibrand, Octob.</hi> 26. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112334:2"/>
+            <!-- PDF PAGE 30 -->
+            <pb n="1" facs="tcp:112334:2"/>
+            <!-- PDF PAGE 30 -->
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Should have gone into <hi>Newcaſtle</hi> at the time when the Packet went from hence, on Thurſday, but was put off till Friday by theſe obſtinat miſchreants, eſpe<g ref="char:EOLhyphen"/>cially the Maior of that Town. Sir <hi>David Hume, John Ratherford</hi> of <hi>Jedburgh,</hi> and I, went in on Friday at nine in the morning; we had Commiſ<g ref="char:EOLhyphen"/>ſion from the Generall and Committee (if we found reall dealing) to yeeld to all honourable Conditions, for preventing the effuſion of blood, notwithſtanding all the Provocations we had from them. The Maior, Sir <hi>Nicholas Cole,</hi> and Sir <hi>George Baker</hi> were treating with us: they gave us big words: do what we could, they would not ſo much as come to ſpeak of Conditions of rendring up the Town: And, after three or four hours Debate, all they would condeſcend unto, was, To think upon their Propoſitions, and ſend them to the Generall within three days; one of which Propoſitions to be as they affirmed, and Mordicus adhered unto: That when all Conditions were agreed upon, they ſhould give Hoſtages for delivery up of the Town
+<pb n="2" facs="tcp:112334:3"/>
+               <!-- PDF PAGE 31 -->after twenty days, if Relief came not to them. And becauſe we who were commiſſionated from the Army, were limited to Friday at night, to conclude or give over Treatie, we deſired them to write to the Generall, to know his minde concerning thoſe delays, and we ſhould either ſtay till his Excellen<g ref="char:EOLhyphen"/>cies Anſwer did come, or would carry it, and re<g ref="char:EOLhyphen"/>turn, if we had further Commiſſion. They would not grant this favour to us; but told us, They would let us go, and they ſhould write to the Ge<g ref="char:EOLhyphen"/>nerall to morrow. I went thus far on with them, which was more then in Policie I ſhould have done: yet ſo fain would I have effuſion of bloud ſhunnd, that I told them in plain terms, That if they did write any thing, it ſhould be that night. They ſent out a Letter that night, about eight of the clock, wherein they averred many untruths, and told, They would ſend their Propoſitions on Mun<g ref="char:EOLhyphen"/>day next. It was late before many of us could be got together, to give Anſwer: Thoſe who met, thought it fitteſt to return an Anſwer, and to ſend ſuch Conditions as we would grant; and to certifie them, That if they did not accept them, and ſend out Hoſtages for performance, the Generall would no more treat. The ſubſtance of the Conditions were:
+<list>
+                  <item>1 That all Officers and Souldiers who are deſirous to go out of Town, ſhould have liberty to go with Arms, Bag and Baggage, to any Garriſon not beleaguered, within ſixty
+<pb n="3" facs="tcp:112334:3"/>
+                     <!-- PDF PAGE 31 -->miles; and ſhould have a Convoy, Waggons, and meat on the way.</item>
+                  <item>2 That all Strangers, Sojourners, or Inha<g ref="char:EOLhyphen"/>bitants, who deſired to go with the Souldiers, ſhould have the like Liberty and Accommo<g ref="char:EOLhyphen"/>dation.</item>
+                  <item>3 The Town ſhall enjoy their Priviledges and Juriſdiction, conform to their ancient Charters.</item>
+                  <item>4 The Perſons, Houſes, Families and Goods of the Citizens and Inhabitants ſhould be free and protected from violence.</item>
+                  <item>5 They ſhould have their free Trade and Commerce, as other Towns reduced to the Obe<g ref="char:EOLhyphen"/>dience of the King and Parliament.</item>
+                  <item>6 That any of them who deſired to go into the Countrey, and live in their Countrey-hou<g ref="char:EOLhyphen"/>ſes, ſhould have ſafeguard for their Perſons, Families, Goods and Houſes.</item>
+                  <item>7 That no free Billetting ſhall be impoſed on them, without their own conſent.</item>
+                  <item>8 The Army ſhould not enter the Town, but onely a Competent Gariſon.</item>
+               </list>
+            </p>
+            <pb n="4" facs="tcp:112334:4"/>
+            <!-- PDF PAGE 32 -->
+            <p>I have not the perfect copie of the other Inſtru<g ref="char:EOLhyphen"/>ctions ſent to them, which was ſigned by the Ge<g ref="char:EOLhyphen"/>nerall, with that caveat, That they ſhould ſend out Hoſtages this day, at eight in the morning, for the ſurrender of the Town upon theſe Conditions, betwixt this and Munday the one and twentieth, before two in the afternoon, otherwiſe the Condi<g ref="char:EOLhyphen"/>tions to be void. In ſtead of ſending out Hoſta<g ref="char:EOLhyphen"/>ges, or deſiring a new Treaty, this morning they ſent a bitter Invective-Letter, ſtanding to their former Reſolutions. We had been ſo long ex<g ref="char:EOLhyphen"/>pecting that theſe men within the Town ſhould have pitied themſelves, all our Batteries were rea<g ref="char:EOLhyphen"/>dy; ſo many of our Mynes as they had not found out or drowned, were in danger of their hourly finding out; the Winter was drawing on, and our Souldiers were earneſt to have ſome end of the bu<g ref="char:EOLhyphen"/>ſineſſe; which made the Generall (after ſo many ſlightings) to begin this morning to make Brea<g ref="char:EOLhyphen"/>ches: (whereof we had three, and four Mynes) the Breaches were made reaſonable low before three of the clock at night. All our Mynes played very well: They within the Town continued ſtill obſti<g ref="char:EOLhyphen"/>nate: My Lord <hi>Chancellors</hi> Regiment, and <hi>Back<g ref="char:EOLhyphen"/>leughs,</hi> entred at a Breach at <hi>Cloſe-gate:</hi> The Gene<g ref="char:EOLhyphen"/>rall of the Artillery his Regiment, and that of <hi>E<g ref="char:EOLhyphen"/>dinburgh,</hi> entered at a Myne at the <hi>White-Tower</hi> Colonel <hi>Stewart</hi> and <hi>Gasks</hi> Regiment, entered at a Myne, after not diſpute, beſide <hi>Weſt-Gate:</hi> this was one Quarter: Lieutenant-Generall <hi>Baylie</hi> had another Quarter at <hi>New-Gate,</hi> with five Regiments,
+<pb n="5" facs="tcp:112334:4"/>
+               <!-- PDF PAGE 32 -->
+               <hi>viz.</hi> his own (which was formerly <hi>Dudhops</hi>) <hi>Waugh<g ref="char:EOLhyphen"/>tons, Cowpers, Dumferlings,</hi> and <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>who en<g ref="char:EOLhyphen"/>tred by a Breach: Great diſpute was made here, and ſome of our Officers killed, whereof one Ma<g ref="char:EOLhyphen"/>jor <hi>Robert Hepburn</hi> cannot be enough lamented. <hi>Caſ<g ref="char:EOLhyphen"/>ſilis, Kelhead, Wedderburne, Marſhall,</hi> and the Maſter of <hi>Yeſters,</hi> had a third Quarter, who entred by a Breach, not without diſpute. Lord <hi>Sinclare, Aytoun, Niddery,</hi> the Maſter of <hi>Cranſtoun,</hi> and the Lord <hi>Le<g ref="char:EOLhyphen"/>vingſton,</hi> had the fourth Quarter, who entred at two Mynes. They would have had more hot work, but the Reſolutions of the Officers and Souldiers made a quick diſpatch. They within the Town made all the Oppoſition they could, on the Walls, and in the Streets. Some houſes are burnt. The Maior and ſome others fled to the Caſtle, and did preſent<g ref="char:EOLhyphen"/>ly beat a Parley, which the Generall would not hear, at that time, in reſpect they had been the in<g ref="char:EOLhyphen"/>ſtruments of ſo much bloodſhed. The Lord <hi>Rae,</hi> and ſome others of our countrey-men, are priſoners with us. You ſhall hear more particularly, within a day or two, by an Expreſſe.</p>
+            <closer>
+               <dateline>
+                  <date>Octob. 19. 1644.</date>
+               </dateline>
+               <signed>Your Lordſhips humble ſervant, <hi>A. HUMBIE.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
